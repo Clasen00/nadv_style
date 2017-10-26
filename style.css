@@ -6969,7 +6969,7 @@ svg.ic path, svg.ic rect {
     -webkit-transform: translateY(-50%) translateX(-50%);
 }
 
-.card__image:hover, .detail-card__image img:hover > {
+.card__image:hover, .detail-card__image img:hover {
     background-image: linear-gradient(to bottom, rgba(41, 182, 246, 0.1), rgba(41, 182, 246, 0.8));
 }
 
