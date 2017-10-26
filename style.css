@@ -215,16 +215,16 @@ button.btn:hover {
 
 .page-content ul li:before {
     background-color : #4e9fd3;
-    /*ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
+    /*Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½ Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½*/
     content : "";
     height : 1px;
-    /*ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
+    /*Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½ Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½*/
     left : 0;
     overflow : hidden;
     position : absolute;
     top : 6px;
     width : 10px;
-    /*ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
+    /*Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½ Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½*/
 }
 
 /* TABLE */
@@ -2768,27 +2768,31 @@ a.logos-blk img {
 }
 
 .telegram {
-    background : url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9ItCh0LvQvtC5XzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMjUwMS4xIDIxNzciIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDI1MDEuMSAyMTc3IiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBpZD0iQ29sb3ItRmlsbC0xIiBmaWxsPSIjNzNBRUUwIiBkPSJNNjIwLDEyNTguNGwyMjMsNzE2LjljMTQuNiw0NS44LDcwLjksNjIuNSwxMDcuMywzMi4zYzMyMC45LTI2MS41LDMyMC45LTI2MS41LDMyMC45LTI2MS41YzMzLjMtMjcuMSw4MS4zLTI5LjIsMTE2LjctMy4xYzU3OS4zLDQyMSw1NzkuMyw0MjEsNTc5LjMsNDIxYzM5LjYsMjkuMiw5NS45LDcuMywxMDYuMy00MC42QzI0OTkuNyw4MiwyNDk5LjcsODIsMjQ5OS43LDgyYzEwLjQtNTMuMS00MC42LTk2LjktOTAuNy03Ny4xQzQzLjgsOTE2LjYsNDMuOCw5MTYuNiw0My44LDkxNi42Yy01OC40LDIyLjktNTguNCwxMDUuMiwwLDEyNy4xbDAsMEw2MjAsMTI1OC40eiBNMTkzMy45LDQ0OS44YzE5LjgtMTIuNSw0MC42LDE0LjYsMjQsMzEuM2MtOTI5LjQsODYzLjgtOTI5LjQsODYzLjgtOTI5LjQsODYzLjhjLTMyLjMsMzAuMi01NC4yLDcwLjktNTkuNCwxMTUuN2MtMzEuMywyMzQuNC0zMS4zLDIzNC40LTMxLjMsMjM0LjRjLTQuMiwzMS4zLTQ3LjksMzQuNC01Ny4zLDQuMmMtMTIxLjktNDI4LjMtMTIxLjktNDI4LjMtMTIxLjktNDI4LjNjLTE0LjYtNDcuOSw2LjMtMTAwLDQ5LTEyNy4xbDAsMEwxOTMzLjksNDQ5Ljh6Ii8+PC9zdmc+) no-repeat center center;
-    height : 20px;
-    width : 20px;
-    border : none;
-    float : left;
-    margin-right : 5px;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9ItCh0LvQvtC5XzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMjUwMS4xIDIxNzciIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDI1MDEuMSAyMTc3IiB4bWw6c3BhY2U9InByZXNlcnZlIj48cGF0aCBpZD0iQ29sb3ItRmlsbC0xIiBmaWxsPSIjNzNBRUUwIiBkPSJNNjIwLDEyNTguNGwyMjMsNzE2LjljMTQuNiw0NS44LDcwLjksNjIuNSwxMDcuMywzMi4zYzMyMC45LTI2MS41LDMyMC45LTI2MS41LDMyMC45LTI2MS41YzMzLjMtMjcuMSw4MS4zLTI5LjIsMTE2LjctMy4xYzU3OS4zLDQyMSw1NzkuMyw0MjEsNTc5LjMsNDIxYzM5LjYsMjkuMiw5NS45LDcuMywxMDYuMy00MC42QzI0OTkuNyw4MiwyNDk5LjcsODIsMjQ5OS43LDgyYzEwLjQtNTMuMS00MC42LTk2LjktOTAuNy03Ny4xQzQzLjgsOTE2LjYsNDMuOCw5MTYuNiw0My44LDkxNi42Yy01OC40LDIyLjktNTguNCwxMDUuMiwwLDEyNy4xbDAsMEw2MjAsMTI1OC40eiBNMTkzMy45LDQ0OS44YzE5LjgtMTIuNSw0MC42LDE0LjYsMjQsMzEuM2MtOTI5LjQsODYzLjgtOTI5LjQsODYzLjgtOTI5LjQsODYzLjhjLTMyLjMsMzAuMi01NC4yLDcwLjktNTkuNCwxMTUuN2MtMzEuMywyMzQuNC0zMS4zLDIzNC40LTMxLjMsMjM0LjRjLTQuMiwzMS4zLTQ3LjksMzQuNC01Ny4zLDQuMmMtMTIxLjktNDI4LjMtMTIxLjktNDI4LjMtMTIxLjktNDI4LjNjLTE0LjYtNDcuOSw2LjMtMTAwLDQ5LTEyNy4xbDAsMEwxOTMzLjksNDQ5Ljh6Ii8+PC9zdmc+) no-repeat top center;
+    height: 30px;
+    width: 16px;
+    border: none;
+    float: left;
+    margin-right: 10px;
+    position: relative;
+    top: 3px;
 }
 
 .tel-link {
-    border : none;
-    color : #262626;
-    font-size : 17px;
-    display : inline-block;
-    margin : 30px 0 0 0;
+    color: #262626;
+    font-size: 17px;
+    display: flex;
+    margin-top: 5%;
+    text-align: left;
+    left: 3%;
+    line-height: 14px
 }
 
 .tel-link a {
-    border-bottom : 1px solid #f2f2f2;
-    color : #73aee0;
-    font-size : 17px;
-    margin : 30px 0 0 0;
+    border-bottom: 1px solid #f2f2f2;
+    color: #73aee0;
+    font-size: 14px;
+    margin: 30px 0 0 0;
 }
 
 .tel-link a:hover {
@@ -6872,7 +6876,7 @@ svg.ic path, svg.ic rect {
     right: 28px!important;
 }
 
-/*Ð´Ð¾Ð±Ð°Ð²Ð»ÑÑ‚ÑŒ Ð½Ð°Ñ‡Ð°Ð» Ñ‚ÑƒÑ‚*/
+/*ÃÂ´ÃÂ¾ÃÂ±ÃÂ°ÃÂ²ÃÂ»Ã‘ÂÃ‘â€šÃ‘Å’ ÃÂ½ÃÂ°Ã‘â€¡ÃÂ°ÃÂ» Ã‘â€šÃ‘Æ’Ã‘â€š*/
 .card-view {
     display: inline-flex;
     justify-content: space-between;
@@ -6982,7 +6986,7 @@ svg.ic path, svg.ic rect {
     -moz-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
     position: inherit;
-    top: 55%;
+    top: 47%;
 }
 
 .card__title:hover, .short-card__title:hover {
@@ -7217,6 +7221,11 @@ svg.ic path, svg.ic rect {
     position: -webkit-sticky;
     position: sticky;
     top: 83px;
+    padding-left: 0px;
+}
+
+ul.detail__card-article h1 {
+    padding-top: 0px;
 }
 
 .detail-card__list li {
